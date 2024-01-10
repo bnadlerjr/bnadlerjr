@@ -29,16 +29,17 @@
     <img src="https://raw.githubusercontent.com/bnadlerjr/bnadlerjr/main/icons/sass-original.svg" alt="Sass" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/bnadlerjr/bnadlerjr/main/icons/rails-original-wordmark.svg" alt="Rails" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/bnadlerjr/bnadlerjr/main/icons/phoenix-original.svg" alt="Phoenix" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/bnadlerjr/bnadlerjr/main/icons/sinatra-logo.png" alt="Flask" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/bnadlerjr/bnadlerjr/main/icons/sinatra-logo.png" alt="Sinatra" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/bnadlerjr/bnadlerjr/main/icons/flask-original.svg" alt="Flask" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/bnadlerjr/bnadlerjr/main/icons/htmx-logo.webp" alt="Flask" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/bnadlerjr/bnadlerjr/main/icons/htmx-logo.webp" alt="HTMX" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/bnadlerjr/bnadlerjr/main/icons/graphql-plain-wordmark.svg" alt="GraphQL" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/bnadlerjr/bnadlerjr/main/icons/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/bnadlerjr/bnadlerjr/main/icons/terraform-original.svg" alt="Terraform" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/bnadlerjr/bnadlerjr/main/icons/heroku-original.svg" alt="Heroku" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/bnadlerjr/bnadlerjr/main/icons/nginx-original.svg" alt="nginx" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/bnadlerjr/bnadlerjr/main/icons/circleci-plain.svg" alt="CircleCI" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/bnadlerjr/bnadlerjr/main/icons/docker-original.svg" alt="Docker" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/bnadlerjr/bnadlerjr/main/icons/neovim-logo.png" alt="Figma" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/bnadlerjr/bnadlerjr/main/icons/neovim-logo.png" alt="Neovim" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/bnadlerjr/bnadlerjr/main/icons/figma-original.svg" alt="Figma" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/bnadlerjr/bnadlerjr/main/icons/git-original.svg" alt="Git" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/bnadlerjr/bnadlerjr/main/icons/linux-original.svg" alt="Linux" width="40" height="40"/>

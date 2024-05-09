@@ -1,4 +1,4 @@
-# Hi there 👋,, I'm Bob Nadler, Jr.
+# Hi there 👋, I'm Bob Nadler, Jr.
 
 - 🌍  I'm based in New Jersey
 - 🏢  I currently work for [@flatiron-labs](https://github.com/flatiron-labs)

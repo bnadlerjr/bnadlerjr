@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Bob Nadler, Jr.
 
 - 🌍  I'm based in New Jersey
-- 🏢  I currently work for [@flatiron-labs](https://github.com/flatiron-labs)
+- 🏢  I currently work for [@instinct-science](https://github.com/instinctscience)
 - 📝  I write articles about software engineering on my [blog](https://bobnadler.com)
 
 ## Socials
